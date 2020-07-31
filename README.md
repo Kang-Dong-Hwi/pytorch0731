@@ -39,7 +39,7 @@ lr=0.00002<br>
   <tr>
     <td> <img src="https://github.com/Kang-Dong-Hwi/pytorch0731/blob/master/train_dataset_confusion_matrix3101.png", height=230px, width=250px>  </td>
     <td> <img src="https://github.com/Kang-Dong-Hwi/pytorch0731/blob/master/validation_dataset_confusion_matrix3101.png", height=230px, width=250px>  </td>
-    <td colspan="2"> <img src="https://github.com/Kang-Dong-Hwi/pytorch0729/blob/master/Adam3101.png", height=200px, width=350px>  </td>
+    <td colspan="2"> <img src="https://github.com/Kang-Dong-Hwi/pytorch0731/blob/master/Adam3101.png", height=200px, width=350px>  </td>
   </tr>
   
   <tr> 
@@ -58,7 +58,7 @@ lr=0.00002<br>
   <tr>
     <td> <img src="https://github.com/Kang-Dong-Hwi/pytorch0731/blob/master/train_dataset_confusion_matrix3102.png", height=230px, width=250px>  </td>
     <td> <img src="https://github.com/Kang-Dong-Hwi/pytorch0731/blob/master/validation_dataset_confusion_matrix3102.png", height=230px, width=250px>  </td>
-    <td colspan="2"> <img src="https://github.com/Kang-Dong-Hwi/pytorch0729/blob/master/Adam3102.png", height=200px, width=350px>  </td>
+    <td colspan="2"> <img src="https://github.com/Kang-Dong-Hwi/pytorch0731/blob/master/Adam3102.png", height=200px, width=350px>  </td>
   </tr>
   
   <tr> 
