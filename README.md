@@ -4,7 +4,7 @@
 ********
 
 ### Screenshots
--------
+
 epoch=100<br>
 batch_size=20<br>
 lr=0.00002<br>
