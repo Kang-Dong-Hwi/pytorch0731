@@ -1,9 +1,7 @@
 # pytorch0731
-## ResNet, DenseNet
-
 <br><br>
-
-
+## ResNet, DenseNet
+********
 
 ### Screenshots
 -------
